@@ -21,7 +21,7 @@ body{
   margin: 0 auto;
   width: 200px;
   height: 200px;
-  background: #fcdd32;
+  background: #ffa500 ;
 }
 
 p{
@@ -50,7 +50,7 @@ p{
   width: 8px;
   height: 20px;
   top: 35%;
-  background: #eb9896;
+  background: #FFA500;
 }
 
 #cabeca::after{
